@@ -1,0 +1,6 @@
+2021-12-20 22:57:08,243 INFO [root] [__init__.py(<module>:5)] - info
+2021-12-20 22:57:08,244 ERROR [root] [__init__.py(<module>:6)] - error
+2021-12-20 22:57:08,360 INFO [root] [GetTree.py(test01_getTree_success:19)] - getTree response = {'Message': '找不到与请求 URI“http://10.106.0.235:8001/api/AutoModule/GetTree222111”匹配的 HTTP 资源。'}
+2021-12-20 22:57:18,338 INFO [root] [__init__.py(<module>:5)] - info
+2021-12-20 22:57:18,338 ERROR [root] [__init__.py(<module>:6)] - error
+2021-12-20 22:57:18,938 INFO [root] [GetTree.py(test01_getTree_success:19)] - getTree response = {'Message': '找不到与请求 URI“http://10.106.0.235:8001/api/AutoModule/GetTree222111”匹配的 HTTP 资源。'}
